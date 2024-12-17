@@ -1,0 +1,107 @@
+//1. find large number in 4 numbers  ---Done
+//2.  find smallest number in 4 numbers ---Done
+//3.  find the range ---Done
+number = 315    
+1-100   => print number is between 1 to 100
+101-200 => print number is between 101 to 200
+201-300 => print number is between 201 to 300
+301-400 => print number is between 301 to 400
+401-500 => print number is between 401 to 500
+501-600 => print number is between 501 to 600
+601-700 => print number is between 601 to 700
+else => out of range 
+
+
+
+
+
+// switch ka use krna MC ---Done
+// 4. 
+1 -> Monday 
+2 -> Tuesday 
+3 -> so ...
+else -> No Day 
+
+
+//5 
+x = "apple"---------Done
+
+print appple 
+print Banana 
+print Litchi 
+else No Fruit 
+
+
+
+
+
+
+
+
+
+// for looop program 
+
+2 ki table print kriye ---- Done
+1 se 20  jo number even usko print jo odd h usko print krna h -----Done
+
+
+
+
+
+// find prime number 
+
+
+
+================================================
+for loop program
+11111
+11111
+11111
+11111
+11111
+11111
+11111
+11111
+
+
+54321
+54321
+54321
+54321
+54321
+
+
+AAAAAA
+AAAAAA
+AAAAAA
+AAAAAA
+AAAAAA
+
+54321
+4321
+321
+21
+1
+
+*
+**
+***
+****
+*****
+******  n= 6
+
+
+*****12345
+*****12345
+*****12345
+*****12345
+*****12345
+
+
+=================================
+Array Programs 
+190,13,16,78,90
+
+Max number, min number ----done
+sum ---done
+Please check pyramid progrm in whatsapp---done
